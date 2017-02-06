@@ -1,0 +1,47 @@
+BRAND
+
+The Poker Range
+The Poker Practice Range
+
+FLASH! - Poker Range learning tool
+
+FEATURES
+
+-Main
+
+People can set starting ranges for as many positions as they like
+People can choose from a preset range (Advertising Potential)
+People can then test themselfs on the ranges, seeing a table in different positions
+
+There are 2 types of quiz - 2 cards are shown, from the positon show what action with this hand
+				Scoring consists of - Hands answered - correct - wrong - %
+				Advanced features incude (Timing, Multi-table)
+                          - A random position is shown (not in order), players then enter range 
+			    this is then compared against the "correct" range
+				Scoring consists of - correct - wrong - %
+
+Also feature a "How to construct a range" tab that will give basic advice, and most importantly
+link to poker books via affiliate links.
+
+-Future
+
+Mobile App
+Save and link ranges (range creates link like .io game rooms but stays single page sites)
+Multi Table & Quick decisions
+RUSSIAN and other languages
+
+INSTRUCTIONS
+
+Welcome to the Starting Range Learning Tool. To get started simply: 
+1. Pick the number of positions you want to choose ranges for or pick one of the preset ranges
+2. Drag or click the hands that you wish to include in your opening range from each position, using the tabs
+   bellow to set a range for each position, or if you are using a touch screen device, slide the screen to 
+   change the selected position.
+3. When each position has a starting range you are happy with, click the Start button to begin.
+4. You will now see a hand combination and a position, you now need to decide whether to bet or fold.	
+
+SUMMARY
+
+The Poker Range is a learning tool to help anyone, hobbyists and aspiring poker profesionals alike, to memorise
+starting hand ranges. It doesn't matter if you are learning from books, online courses, forum advice or coaching, 
+The Poker Range is designed to be customised to the ranges YOU want to learn.		
