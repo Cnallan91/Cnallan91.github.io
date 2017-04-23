@@ -1,0 +1,45 @@
+Company - 
+Second Company (Architectural)
+
+
+
+Workshop- 
+
+	Admin-
+	Booking items-
+		Photos (new system)
+		Quick photo of new work for records
+		More detailed description of work
+		Update price quoted
+
+Online-
+
+	Site Design-
+		Finish Site 1.0
+		Image compression
+		Clients & Associates
+		360 gallery
+		Instagram & facebook integration
+		Better home page image
+		Logo
+	
+	Seo-	
+		Testing & improvement
+	Google- 
+		Pages update
+		Pictures
+		Map update
+		Opening times
+
+	Technical-	
+		What host
+		Email? 
+		Multiple domains
+		Best domain
+		302 redirect
+
+Washing - 
+
+Ramp
+Stop loose parts loss
+Secure parts
