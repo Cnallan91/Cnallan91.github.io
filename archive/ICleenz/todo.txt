@@ -1,9 +1,7 @@
-add about
 add Instagram 
 add Case study
 Improve Services pages
 	Add keywords
-Improve Logo
 Improve Contact us
 Improve Banner
 
